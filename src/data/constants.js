@@ -1,8 +1,8 @@
 export const Bio = {
     name: "Roshni Kumari",
     roles: [
-      "Web Designer",
-      "Frontend Developer",
+      "Full Stack Developer",
+      "Android Developer",
       "UI/UX Designer",
       "Graphic Designer",
     ],
@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/RSN601KRI",
     resume:
-      "https://drive.google.com/file/d/1-smKj8ri8LsbwKWDYZZpnlFSPxgDNS7L/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1TeRggJZxh3rlb2Q_qpDTHjVoAhGusoQm/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/roshnikumari1/",
     twitter: "https://twitter.com/RoshniK29147303",
     insta: "https://www.instagram.com/roshnikumari4035/",
@@ -25,6 +25,11 @@ export const Bio = {
           name: "React Js",
           image:
             "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+        },
+        {
+          name: "Redux",
+          image:
+            "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
         },
         {
           name: "Next Js",
@@ -44,6 +49,11 @@ export const Bio = {
           name: "JavaScript",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+        },
+        {
+          name: "Bootstrap",
+          image:
+            "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
         },
       ],
     },
@@ -88,6 +98,11 @@ export const Bio = {
           image:
             "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
         },
+        {
+          name: "Android Studio",
+          image:
+            "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+        },
       ],
     },
     {
@@ -112,6 +127,11 @@ export const Bio = {
           name: "VS Code",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+        },
+        {
+          name: "Postman",
+          image:
+            "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
         },
         {
           name: "Figma",
@@ -162,6 +182,14 @@ export const Bio = {
       desc: "GCP is a platform where wide range of online courses are for free to learn with hands on lab experience and challenges to do which boosts our skills in various Cloud Technologies. I've done some of the certifications from GCP.",
       tag: "Google Cloud Platform",
       doc: "https://www.cloudskillsboost.google/public_profiles/d15c6906-3288-4d71-98bd-7f2c3010d000",
+    },
+    {
+      id: 0,
+      company: "Cisco Cybersecurity Essentials",
+      date: "Jan 2024 - Jan 2025",
+      desc: "Cisco Cybersecurity Essentials has foundational knowledge of cybersecurity, including the basics of network security, encryption and cybersecurity laws. It has been introduced to tactics and techniques used by Black Hats, and the principles of Confidentiality, Integrity, and Availability used by White Hats to defend networks.",
+      tag: "Cisco",
+      doc: "https://www.credly.com/badges/e7bf4b89-1205-4f69-a910-5e2b9f8a94e1/linked_in?t=s6wf1g",
     },
   ]
   export const experiences = [
@@ -215,11 +243,11 @@ export const Bio = {
     },
     {
       id: 3,
-      img: "https://play.google.com/store/apps/details?id=com.foundit.zuno",
+      img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-to-become-a-microsoft-learn-student-ambassador-45e3348e399d&psig=AOvVaw2lsq1PGAoLDcBipQ7RlFou&ust=1705400479246000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCLjnof-V34MDFQAAAAAdAAAAABAR",
       role: "Campus Ambassador",
-      company: "Zuno by Foundit",
-      date: "Dec 20222 - Present",
-      desc: "Being a campus ambassador has been an incredibly rewarding experience. It has allowed me to develop strong leadership and communication skills while representing an esteemed organization. I've had the chance to connect with fellow students, organize events, and promote valuable opportunities. This role has enriched my network, enhanced my organizational abilities, and taught me the importance of teamwork and effective collaboration.",
+      company: "Microsoft Learn Student Ambassador",
+      date: "Nov 2023 - Present",
+      desc: "Being a campus ambassador has been an incredibly rewarding experience. It has allowed me to develop strong leadership and communication skills while representing an various Different organization. I've had the chance to connect with fellow students, organize events, and organize valuable opportunities. This role has enriched my network, enhanced my organizational abilities, and taught me the importance of teamwork and effective collaboration.",
       skills: [
         "Communication",
         "Leadership",
@@ -230,7 +258,7 @@ export const Bio = {
         "Cultural Awareness",
         "Passion and Enthusiasm",
       ],
-      doc: "https://www.linkedin.com/in/roshnikumari1/recent-activity/all/"
+      doc: "https://www.linkedin.com/feed/update/urn:li:activity:7135618254005317633/"
     },
   ];
   
@@ -385,19 +413,32 @@ export const Bio = {
     },
     {
       id: 5,
-      title: "Todo Web App",
+      title: "React Kanban Board",
       date: "Jun 2021",
       description:
-        " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "An interactive Kanban board application built with React that interacts with the QuickSell API.",
       image:
-        "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-      tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-      category: "machine learning",
-      github: "https://github.com/rishavchanda/Todo-Web-App",
-      webapp: "https://rishav-react-todo.netlify.app/",
-    }, 
+        "https://private-user-images.githubusercontent.com/106860359/296717207-551ff063-f995-4034-b89c-1bd1ae56f01e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzMTI2MjcsIm5iZiI6MTcwNTMxMjMyNywicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE3MjA3LTU1MWZmMDYzLWY5OTUtNDAzNC1iODljLTFiZDFhZTU2ZjAxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNVQwOTUyMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZmVmYzRmNTk5OGY5YTdlZTllYzllNjRjMWRlYTA0MDY4ODVkZjNhYmExOTI0ODI0ZjAwNTlkNDdhN2YwNGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Or-ktgu3xtC1pKBKk05REHVdk_nFX-jsDCi8bR2DaAE",
+      tags: ["React Js", "CSS3", "HTML5", "Node JS"],
+      category: "web app",
+      github: "https://github.com/RSN601KRI/React_Board_Application",
+      webapp: "https://react-board-application.vercel.app/",
+    },
     {
       id: 6,
+      title: "Weather App",
+      date: "Sept 2023",
+      description:
+      "Weather App is a simple web application that allows users to check the current weather conditions for a specific location. The app utilizes a weather API to fetch real-time weather data and displays it in a user-friendly interface.",
+      image:
+        "https://private-user-images.githubusercontent.com/106860359/296719958-e9a56a0a-b5ee-4cd3-a081-26b0f64cd53a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzMTMxMzIsIm5iZiI6MTcwNTMxMjgzMiwicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE5OTU4LWU5YTU2YTBhLWI1ZWUtNGNkMy1hMDgxLTI2YjBmNjRjZDUzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNVQxMDAwMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZWIyNjk5YTY3YmJiNGY0NmMxNWVlYmMzMjQyN2VkYWQxNGNmZWU3N2IzMjNiZmI4ZTBiOGQwYzhjOWNjZTE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.49Ys3JVOpQWyBgIIVX9klSzDZ4GPR0LYty7257vVjck",
+      tags: ["React Js", "CSS3", "HTML5", "Node JS", "UX/UI"],
+      category: "web app",
+      github: "https://github.com/RSN601KRI/weatherap",
+      webapp: "https://waetherap.netlify.app/",
+    }, 
+    {
+      id: 7,
       title: "Cracking the Code: How to Make Money Online in a Competitive Future🚀",
       date: "Aug 10, '23",
       description:

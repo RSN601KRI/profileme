@@ -146,6 +146,7 @@ export const Bio = {
     {
       id: 0,
       company: "Google",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png",
       date: "July 2023 - july 2025",
       desc: "Google is a  platform where wide range of online courses are for free to learn. I've done some of the certifications from Google.",
       tag: "Google Play Academy",
@@ -154,6 +155,7 @@ export const Bio = {
     {
       id: 0,
       company: "LinkedIn",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png",
       date: "March 2023 - March 2025",
       desc: "LinkedIn is a platform where people can share their skills. I've done some of the certifications from LinkedIn.",
       tag: "Linkedin Certified Marketing Insider",
@@ -162,6 +164,7 @@ export const Bio = {
     {
       id: 0,
       company: "HackerRank",
+      img: "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png",
       date: "July 2023 - july 2025",
       desc: "HackerRank is a platform where people can share their skills. I've done some of the certifications from HackerRank.",
       tag: "HackerRank Certification",
@@ -170,6 +173,7 @@ export const Bio = {
     {
       id: 0,
       company: "Microsoft",
+      img: "https://freepngimg.com/save/28350-microsoft-logo-photos/880x660",
       date: "July 2023 - july 2025",
       desc: "Microsoft is a  platform where wide range of online courses are for free to learn. I've done some of the certifications from Microsoft.",
       tag: "Microsoft Learn AI Skills Challenge",
@@ -178,6 +182,7 @@ export const Bio = {
     {
       id: 0,
       company: "Google Cloud Platform (GCP)",
+      img: "https://gwcteq.com/wp-content/uploads/2023/05/Emblem-Google-Cloud.jpg",
       date: "July 2023 - july 2025",
       desc: "GCP is a platform where wide range of online courses are for free to learn with hands on lab experience and challenges to do which boosts our skills in various Cloud Technologies. I've done some of the certifications from GCP.",
       tag: "Google Cloud Platform",
@@ -185,35 +190,71 @@ export const Bio = {
     },
     {
       id: 0,
+      company: "Exploratory Data Analysis for Machine Learning",
+      img: "https://logowik.com/content/uploads/images/416_ibm.jpg",
+      date: "Jan 2024 - Jan 2025",
+      desc: "Inferential statistics and hypothesis testing are two types of data analysis often overlooked at early stages of analyzing your data. They can give you quick insights about the quality of your data. They also help you confirm business intuition and help you prescribe what to analyze next using Machine Learning. This module looks at useful definitions and simple examples that will help you get started creating hypothesis around your business problem and how to test them.",
+      tag: "IBM",
+      doc: "https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning/home/week/4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta",
+    },
+    {
+      id: 0,
       company: "Cisco Cybersecurity Essentials",
+      img: "https://i.pngimg.me/thumb/f/720/m2i8b1d3b1m2i8G6.jpg",
       date: "Jan 2024 - Jan 2025",
       desc: "Cisco Cybersecurity Essentials has foundational knowledge of cybersecurity, including the basics of network security, encryption and cybersecurity laws. It has been introduced to tactics and techniques used by Black Hats, and the principles of Confidentiality, Integrity, and Availability used by White Hats to defend networks.",
       tag: "Cisco",
       doc: "https://www.credly.com/badges/e7bf4b89-1205-4f69-a910-5e2b9f8a94e1/linked_in?t=s6wf1g",
     },
+    {
+      id: 0,
+      company: "Learn the basics of web - Internet fundamentals",
+      img: "https://codedamn.com/assets/images/blacklogo.jpg",
+      date: "Dec 2022 - Jan 2024",
+      desc: "This course explains How domains work, Role of DNS, Port numbers and HTTP parts, Writing raw socket requests, Fundamental understanding of HTTP and fundamentals.",
+      tag: "Codedamn",
+      doc: "https://codedamn.com/certificate/verify/3a630dd5cd014da7d54dd67a2c8f91ae518d02c8",
+    },
+    {
+      id: 0,
+      company: "Foundational C# with Microsoft",
+      img: "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/76/5b/72/765b72cf-ebe9-cb57-47b1-37d5b7546b27/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+      date: "Dec 2023 - Dec 2025",
+      desc: "🌐 The course provided a solid foundation in C# programming, equipping me with essential tools to tackle real-world coding challenges. From basic syntax to more advanced concepts, I feel confident in my ability to write efficient and effective C# code.",
+      tag: "FreeCodeCamp",
+      doc: "https://www.freecodecamp.org/certification/fcc17f72bc2-519a-467f-8599-01492648ae34/foundational-c-sharp-with-microsoft",
+    },
+    {
+      id: 0,
+      company: "Career Essentials in Generative AI by Microsoft and LinkedIn",
+      img: "https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png",
+      date: "Dec 2023 - Jan 2025",
+      desc: "A career in Generative AI offers exciting opportunities to create innovative solutions, ranging from art and language generation to simulation and problem-solving. As a Generative AI professional, you'll contribute to cutting-edge advancements, shaping the future of artificial intelligence and technology.",
+      tag: "Microsoft & Linkedin",
+      doc: "https://www.linkedin.com/learning/certificates/f5cdfd38ab9b2103eb8db3ecc3ed622d366c2022b0d2dfde340c8fec5474a4f9",
+    },
   ]
   export const experiences = [
     {
       id: 0,
-      img: "https://media.licdn.com/dms/image/D4E12AQFp6hpqTuzGBg/article-cover_image-shrink_600_2000/0/1675094712868?e=2147483647&v=beta&t=c0NjOlQbMHKa__-a7PgindRGItuPKnJmZ8eFwDC8YUM",
-      role: "Web Developer Intern",
-      company: "CodeClause",
-      date: "Sept 2022 - Dec 2022",
-      desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+      img: "https://azdev.reskilll.com/assets/img/azdevlogonew.png",
+      role: "Mentee",
+      company: "Azure Developer Community",
+      date: "Nov 2023 - Dec 2023",
+      desc: "Working on the frontend of the web application using ReactJS, UX/UI, work on Api.",
       skills: [
         "ReactJS",
         "Redux",
         "NodeJs",
-        "Material UI",
         "HTML",
         "CSS",
         "JavaScript",
       ],
-      doc: "https://www.linkedin.com/in/roshnikumari1/recent-activity/all/", 
+      doc: "https://reskilll.com/certificate/sboa/cohort4/ef8f6716aa", 
     },
     {
       id: 1,
-      img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fibm-logo&psig=AOvVaw0AiIQBcV65x3Hb25G9ZMhj&ust=1691899429742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCkqb2e1oADFQAAAAAdAAAAABAE",
+      img: "https://logowik.com/content/uploads/images/416_ibm.jpg",
       role: "IBM Web Development Intern",
       company: "IBM",
       date: "May 2023 - July 2023",
@@ -234,7 +275,7 @@ export const Bio = {
     },
     {
       id: 2,
-      img: "https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1555704980721?e=1692835200&v=beta&t=FjOWcUVVNzqFbTmmp0iXQkv5keBQC5lxIQ7K6rmMSMQ",
+      img: "https://miro.medium.com/v2/resize:fit:1100/1*7t8a9Z1eVYNwS1iaWaiN_Q.png",
       role: "Open Source Contributor ",
       company: "GirlScript Summer of Code",
       date: "May 2023 - Present",
@@ -243,7 +284,7 @@ export const Bio = {
     },
     {
       id: 3,
-      img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-to-become-a-microsoft-learn-student-ambassador-45e3348e399d&psig=AOvVaw2lsq1PGAoLDcBipQ7RlFou&ust=1705400479246000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCLjnof-V34MDFQAAAAAdAAAAABAR",
+      img: "https://pbs.twimg.com/media/F0RaYaUWYAEdQez.jpg:large",
       role: "Campus Ambassador",
       company: "Microsoft Learn Student Ambassador",
       date: "Nov 2023 - Present",
@@ -259,6 +300,24 @@ export const Bio = {
         "Passion and Enthusiasm",
       ],
       doc: "https://www.linkedin.com/feed/update/urn:li:activity:7135618254005317633/"
+    },
+    {
+      id: 4,
+      img: "https://media.licdn.com/dms/image/C4D0BAQGB0gVIyp87fg/company-logo_200_200/0/1678896925785?e=2147483647&v=beta&t=TRPqxjQ4_tKXUX4FlchnBoPuEDsjAKPhWw5gCoHRwrI",
+      role: "Web Designer",
+      company: "Devsource Community",
+      date: "Nov 2023 - Present",
+      desc: "As a design team member in the DevSource community. Excited to collaborate with talented individuals and contribute creative solutions to enhance user experiences and product aesthetics. Looking forward to our collective journey of innovation and design excellence.",
+      skills: [
+        "Communication",
+        "Leadership",
+        "Networking",
+        "Public Speaking",
+        "Problem Solving",
+        "Time Management",
+        "Cultural Awareness",
+      ],
+      doc: "https://linktr.ee/Devsource"
     },
   ];
   
@@ -418,7 +477,7 @@ export const Bio = {
       description:
       "An interactive Kanban board application built with React that interacts with the QuickSell API.",
       image:
-        "https://private-user-images.githubusercontent.com/106860359/296717207-551ff063-f995-4034-b89c-1bd1ae56f01e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzMTI2MjcsIm5iZiI6MTcwNTMxMjMyNywicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE3MjA3LTU1MWZmMDYzLWY5OTUtNDAzNC1iODljLTFiZDFhZTU2ZjAxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNVQwOTUyMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZmVmYzRmNTk5OGY5YTdlZTllYzllNjRjMWRlYTA0MDY4ODVkZjNhYmExOTI0ODI0ZjAwNTlkNDdhN2YwNGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Or-ktgu3xtC1pKBKk05REHVdk_nFX-jsDCi8bR2DaAE",
+        "https://private-user-images.githubusercontent.com/106860359/296717207-551ff063-f995-4034-b89c-1bd1ae56f01e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc4MzM2MDksIm5iZiI6MTcwNzgzMzMwOSwicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE3MjA3LTU1MWZmMDYzLWY5OTUtNDAzNC1iODljLTFiZDFhZTU2ZjAxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxM1QxNDA4MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDk5MjQwOTlkNDg2NDMwN2U1YTgyNjhiMGUwMmQ1YjhjMWFkNjZhOGRhZDYwY2ViZWMyNWU2NzE2NjMyYzY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GdLkP3Iwnd295LSQIjSgfoyG9wmmn4ZejblJ3PrbkLY",
       tags: ["React Js", "CSS3", "HTML5", "Node JS"],
       category: "web app",
       github: "https://github.com/RSN601KRI/React_Board_Application",
@@ -431,7 +490,7 @@ export const Bio = {
       description:
       "Weather App is a simple web application that allows users to check the current weather conditions for a specific location. The app utilizes a weather API to fetch real-time weather data and displays it in a user-friendly interface.",
       image:
-        "https://private-user-images.githubusercontent.com/106860359/296719958-e9a56a0a-b5ee-4cd3-a081-26b0f64cd53a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzMTMxMzIsIm5iZiI6MTcwNTMxMjgzMiwicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE5OTU4LWU5YTU2YTBhLWI1ZWUtNGNkMy1hMDgxLTI2YjBmNjRjZDUzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNVQxMDAwMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZWIyNjk5YTY3YmJiNGY0NmMxNWVlYmMzMjQyN2VkYWQxNGNmZWU3N2IzMjNiZmI4ZTBiOGQwYzhjOWNjZTE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.49Ys3JVOpQWyBgIIVX9klSzDZ4GPR0LYty7257vVjck",
+        "https://private-user-images.githubusercontent.com/106860359/296719958-e9a56a0a-b5ee-4cd3-a081-26b0f64cd53a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc4MzM3OTEsIm5iZiI6MTcwNzgzMzQ5MSwicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE5OTU4LWU5YTU2YTBhLWI1ZWUtNGNkMy1hMDgxLTI2YjBmNjRjZDUzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxM1QxNDExMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGM0ZmY1MDIyMGFkNjE2YWI0MWM4YzZlZTE5Y2ZjZWNkMmMzY2I2MzlmOWIyMjM3ZGY4ZmUwYjE4OWE1YzViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.raVI2EZkQUCyYzmUpb2iy7RnjZ4g7V0RW3Kdww7h2A4",
       tags: ["React Js", "CSS3", "HTML5", "Node JS", "UX/UI"],
       category: "web app",
       github: "https://github.com/RSN601KRI/weatherap",

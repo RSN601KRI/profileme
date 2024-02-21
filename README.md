@@ -1,6 +1,6 @@
 # Web Portfolio Readme
 
-This repository contains the code and assets for my personal web portfolio, showcasing my projects, skills, and experience. The portfolio is built using HTML, CSS, JavaScript, and React. It's designed to provide an interactive and visually appealing way to display my work and achievements.
+This repository contains the code and assets for my web portfolio, showcasing my projects, skills, and experience. The portfolio is built using HTML, CSS, JavaScript, and React. It's designed to provide an interactive and visually appealing way to display my work and achievements.
 
 ## Table of Contents
 
@@ -16,10 +16,9 @@ This repository contains the code and assets for my personal web portfolio, show
 
 ## Introduction
 
-Welcome to my personal web portfolio repository! This portfolio website serves as a showcase of my projects, skills, and professional experience. It's designed to leave a lasting impression on visitors and potential collaborators. The portfolio is built using modern web technologies and follows best practices for responsiveness, accessibility, and user experience.
+Welcome to my web portfolio repository! This portfolio website serves as a showcase of my projects, skills, and professional experience. It's designed to leave a lasting impression on visitors and potential collaborators. The portfolio uses modern web technologies and follows best practices for responsiveness, accessibility, and user experience.
 
-![Screenshot (158)](https://github.com/RSN601KRI/portfolio/assets/106860359/660f7832-1ca8-44a9-83ae-c4481b38f561)
-
+![profileme](https://github.com/RSN601KRI/profileme/assets/106860359/b561e4ca-bff7-4206-a69b-2dc3c69826e3)
 
 ## Features
 
@@ -27,7 +26,7 @@ Welcome to my personal web portfolio repository! This portfolio website serves a
 - **Projects:** Display of my projects with detailed descriptions, images, and links to GitHub repositories or live demos.
 - **Skills:** List of my technical skills and competencies.
 - **Resume:** A downloadable PDF version of my resume/CV.
-- **Contact:** A contact form for visitors to get in touch with me directly.
+- **Contact:** A contact form for visitors to contact me directly.
 - **Responsive Design:** The portfolio is optimized for various screen sizes, including mobile devices and tablets.
 
 ## Technologies Used
@@ -78,7 +77,7 @@ Follow these steps to set up the portfolio locally on your machine:
 
 Feel free to customize the portfolio to make it your own:
 
-- Replace the placeholder content with your own information in the `src/data` directory.
+- Replace the placeholder content with your information in the `src/data` directory.
 - Modify the styling by editing the CSS files in the `src/styles` directory.
 - Add your own projects by creating new components in the `src/components` directory.
 
@@ -90,7 +89,7 @@ To deploy your portfolio online, consider using platforms like:
 - [Vercel](https://vercel.com/)
 - [GitHub Pages](https://pages.github.com/)
 
-Remember to update the deployment settings to reflect your chosen platform and configure any necessary build scripts.
+Update the deployment settings to reflect your chosen platform and configure any necessary build scripts.
 
 ## License
 
@@ -99,4 +98,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for checking out my web portfolio! If you have any questions or suggestions, feel free to get in touch with me.
-If you like please marked a Star⭐
+If you like please mark a Star⭐

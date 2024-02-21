@@ -477,7 +477,7 @@ export const Bio = {
       description:
       "An interactive Kanban board application built with React that interacts with the QuickSell API.",
       image:
-        "https://private-user-images.githubusercontent.com/106860359/296717207-551ff063-f995-4034-b89c-1bd1ae56f01e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc4MzM2MDksIm5iZiI6MTcwNzgzMzMwOSwicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE3MjA3LTU1MWZmMDYzLWY5OTUtNDAzNC1iODljLTFiZDFhZTU2ZjAxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxM1QxNDA4MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDk5MjQwOTlkNDg2NDMwN2U1YTgyNjhiMGUwMmQ1YjhjMWFkNjZhOGRhZDYwY2ViZWMyNWU2NzE2NjMyYzY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GdLkP3Iwnd295LSQIjSgfoyG9wmmn4ZejblJ3PrbkLY",
+        "https://plus.unsplash.com/premium_photo-1661963783275-dff88a0296f6?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tags: ["React Js", "CSS3", "HTML5", "Node JS"],
       category: "web app",
       github: "https://github.com/RSN601KRI/React_Board_Application",
@@ -490,7 +490,7 @@ export const Bio = {
       description:
       "Weather App is a simple web application that allows users to check the current weather conditions for a specific location. The app utilizes a weather API to fetch real-time weather data and displays it in a user-friendly interface.",
       image:
-        "https://private-user-images.githubusercontent.com/106860359/296719958-e9a56a0a-b5ee-4cd3-a081-26b0f64cd53a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc4MzM3OTEsIm5iZiI6MTcwNzgzMzQ5MSwicGF0aCI6Ii8xMDY4NjAzNTkvMjk2NzE5OTU4LWU5YTU2YTBhLWI1ZWUtNGNkMy1hMDgxLTI2YjBmNjRjZDUzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxM1QxNDExMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGM0ZmY1MDIyMGFkNjE2YWI0MWM4YzZlZTE5Y2ZjZWNkMmMzY2I2MzlmOWIyMjM3ZGY4ZmUwYjE4OWE1YzViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.raVI2EZkQUCyYzmUpb2iy7RnjZ4g7V0RW3Kdww7h2A4",
+        "https://images.unsplash.com/photo-1630260667842-830a17d12ec9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tags: ["React Js", "CSS3", "HTML5", "Node JS", "UX/UI"],
       category: "web app",
       github: "https://github.com/RSN601KRI/weatherap",
@@ -508,6 +508,19 @@ export const Bio = {
       category: "articles",
       link: "https://medium.com/@roshni_k06",
       read: "https://medium.com/@roshni_k06/cracking-the-code-how-to-make-money-online-in-a-competitive-future-d6276a510a81",
+    },
+    {
+      id: 8,
+      title: "Unlocking the Power of Microsoft Azure: A Beginner's Guide 🌐",
+      date: "Feb 15, '24",
+      description:
+        "In today's digital age, harnessing the potential of cloud computing has become imperative for businesses striving for innovation and efficiency. Microsoft Azure stands out as a comprehensive cloud platform offering a myriad of services tailored to meet diverse needs. Let's embark on a journey to explore the fundamentals of Microsoft Azure, demystifying its capabilities and empowering you to leverage its full potential!",
+      image:
+        "https://images.unsplash.com/photo-1561736778-92e52a7769ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tags: ["Azure", "Cloud Computing", "Excel", "AI/ML"],
+      category: "articles",
+      link: "https://hashnode.com/@roshniii06",
+      read: "https://blogeroshniii.hashnode.dev/unlocking-power-of-microsoft-azure-a-beginners-guide",
     },
   ];
   
